@@ -1,0 +1,14 @@
+//
+//  main.cpp
+//  MyHelloWorld
+//
+//  Created by Chloe Lee on 2023-11-06.
+//
+
+#include <iostream>
+
+int main(int argc, const char * argv[]) {
+    // insert code here...
+    std::cout << "Hello, World!\n";
+    return 0;
+}
